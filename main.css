@@ -1,0 +1,6 @@
+body{
+  text-align: center;
+  font-family: leebo;
+  margin-top: 25px;
+  background: linear-gradient(to right, red, yellow);
+}
